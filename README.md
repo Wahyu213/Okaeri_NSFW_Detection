@@ -31,4 +31,4 @@ $ python3 -m api
 
 # Credits
 
-Thanks to [GantMan}(https://github.com/GantMan/nsfw_model/) for their model.
+Thanks to [{GantMan}(https://github.com/GantMan/nsfw_model/)] for their model.
