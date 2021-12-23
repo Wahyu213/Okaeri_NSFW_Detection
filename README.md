@@ -7,7 +7,7 @@
 
 # Fastest Solution
 
-If you don't want to selfhost it, there's already an instance of this running [here](https://thearq.tech/nsfw_scan?url=https://hamker.me/8ni586l.png)
+If you don't want to selfhost it, there's already an instance of this running 
 
 ## Install Locally Or On A VPS
 
